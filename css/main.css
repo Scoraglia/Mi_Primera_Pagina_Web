@@ -1,3 +1,9 @@
+body{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
 img{
     max-width: 100%;
 }
@@ -8,4 +14,26 @@ img{
 
 .arriba-espacio {
     margin-top: 100px;
+}
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.grande{
+    font-size: 4em;
+}
+
+.verde{
+    color: #00887C;
+}
+
+a{
+    color: #009FFF;
+}
+
+.espacio-derecha{
+    margin-right: 1em;
 }
