@@ -16,6 +16,11 @@ img{
     margin-top: 100px;
 }
 
+.mediano {
+    font-size: 1.5em;
+}
+
+
 .pacifico-regular {
   font-family: "Pacifico", cursive;
   font-weight: 400;
@@ -32,6 +37,7 @@ img{
 
 a, .azul{
     color: #009FFF;
+    font-weight: bold;
 }
 
 .espacio-derecha{
@@ -51,4 +57,8 @@ a, .azul{
 
 .no-lista li {
     list-style-type: none;
+}
+
+.se-gris{
+    background-color: #babec2;
 }
